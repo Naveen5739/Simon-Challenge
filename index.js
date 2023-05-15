@@ -106,50 +106,6 @@ main()  // first function we called
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // jQuery('h1').css('color','royalblue');
 // $('h1').css('font-size');
 // $('h1').attr('title','hello')
